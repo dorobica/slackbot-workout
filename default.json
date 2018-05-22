@@ -25,38 +25,38 @@
   "exercises": [
     {
       "id": 0,
-      "name": "pushups",
-      "minReps": 15,
-      "maxReps": 20,
-      "units": "rep"
+      "name": "palinca",
+      "minReps": 1,
+      "maxReps": 3,
+      "units": "shot"
     },
     {
       "id": 1,
-      "name": "planks",
-      "minReps": 40,
-      "maxReps": 60,
-      "units": "second"
+      "name": "cigarette",
+      "minReps": 1,
+      "maxReps": 5,
+      "units": "smoke"
     },
     {
       "id": 2,
-      "name": "wall sit",
-      "minReps": 40,
-      "maxReps": 50,
-      "units": "second"
+      "name": "lager",
+      "minReps": 2,
+      "maxReps": 7,
+      "units": "pint"
     },
     {
       "id": 3,
-      "name": "chair dips",
-      "minReps": 15,
-      "maxReps": 30,
-      "units": "rep"
+      "name": "neck oil",
+      "minReps": 1,
+      "maxReps": 3,
+      "units": "pint"
     },
     {
       "id": 4,
-      "name": "calf raises",
-      "minReps": 20,
-      "maxReps": 30,
-      "units": "rep"
+      "name": "spliff",
+      "minReps": 1,
+      "maxReps": 1,
+      "units": "smoke"
     }
   ]
 }
